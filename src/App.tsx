@@ -7,7 +7,7 @@ import { IOUList } from './components/IOUList/IOUList';
 import { NewIOUForm } from './components/NewIOU/NewIOUForm';
 import { Homepage } from './components/Homepage/Homepage';
 import { HistoryPage } from './components/History/HistoryPage'; 
-import { FriendsList } from './components/IOUList/FriendsList';
+import { FriendsList } from './components/IOUList/FriendsLIst';
 import { SignupPage } from './components/SignUpPage';
 import { LoginPage } from './components/LoginPage';
 import { ProfilePage } from './components/ProfilePage';
